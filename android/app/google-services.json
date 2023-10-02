@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016181249412",
+    "project_id": "cinematix-fb9c7",
+    "storage_bucket": "cinematix-fb9c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016181249412:android:922139fdb467b9fd2a79d1",
+        "android_client_info": {
+          "package_name": "com.kelvianagency.cinematix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNB2UmHJU6UezuXGBoHyxIwyOsy1-HxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
