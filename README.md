@@ -6,3 +6,7 @@ Cinematix is a mobile movie ticketing app. The goal of this project is to create
 - Flutter
 - Firebase
 - TMDB API
+
+## Upcoming Plans
+Here are some higher-level initiatives that I am currently working on:
+- Update Firebase security rules to fix insecure rules
