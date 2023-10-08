@@ -10,3 +10,4 @@ Cinematix is a mobile movie ticketing app. The goal of this project is to create
 ## Upcoming Plans
 Here are some higher-level initiatives that I am currently working on:
 - Update Firebase security rules to fix insecure rules
+- Integrate MidTrans/Xendit as payment gateway in sandbox environment
