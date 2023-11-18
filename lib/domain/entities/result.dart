@@ -1,6 +1,7 @@
 sealed class Result<T> {
   const Result();
 
+  // We use factory here to return subclass of Result
   const factory Result.success(T value) = Success;
   const factory Result.failed(String message) = Failed;
 
