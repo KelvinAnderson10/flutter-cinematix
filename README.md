@@ -27,3 +27,27 @@ Cinematix is a mobile movie ticketing app. The goal of this project is to create
 Here are some higher-level initiatives that I am currently working on:
 - Update Firebase security rules to fix insecure rules
 - Integrate MidTrans/Xendit as payment gateway in sandbox environment
+
+---
+
+## Some notes :D
+This project is the repository for the course on 
+https://www.udemy.com/course/flutter-flixid/ >> Highly recommended, great course taught by great instructor !
+
+Some scratch reminder for myself in the future:
+```
+Presentation layer - UI
+Domain Layer - Proses bisnis, jarang berubah, (model & usecase)
+Data Layer - mengambil data, update data, dll (api call)
+
+Add package = 
+Command palette -> Pubspec assist: add dependencies
+
+Run freeze:
+dart run build_runner watch -d
+
+fromJson kalau mau custom:
+- hapus part .g.dart
+- fromJson ganti jadi fromJSON
+- contohnya ada di movie.dart
+```
